@@ -1,0 +1,20 @@
+This is my first file
+
+git add .
+
+git commit - m "Initial Commit"
+
+git log    # Log of Commits
+
+git log -n 5 # Limit number of Logs
+
+git status
+
+git diff  # Git Diff to Compare Changes"
+
+git diff --staged # To show changes in the staging area
+git diff --cached # Same as above
+
+git rm file_to_delete2.txt  # Removes files from the repository
+
+git mv second_file.txt secondary_file.txt # Rename the file or move the file
