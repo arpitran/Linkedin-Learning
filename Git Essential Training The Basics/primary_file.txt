@@ -18,3 +18,5 @@ git diff --cached # Same as above
 git rm file_to_delete2.txt  # Removes files from the repository
 
 git mv second_file.txt secondary_file.txt # Rename the file or move the file
+
+git diff c67477..55ac2 # Compare two different commits
